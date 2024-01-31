@@ -1,7 +1,7 @@
 {
   "name": "tree-app",
   "version": "0.1.0",
-  "homepage": "https://squisho.github.io/treemap",
+  "homepage": "https://squisho.github.io/tree-app",
   "private": true,
   "dependencies": {
     "@mapbox/mapbox-gl-draw": "^1.4.3",
